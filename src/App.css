@@ -1,0 +1,44 @@
+
+.App{
+    text-align: center;
+}
+
+.form{
+    background-color: crimson;
+    width: 50%;
+    height: 60%;
+    margin: auto;
+    padding: 5%;
+    margin-top: 25%;
+    border-radius: 30px;
+}
+.btn{
+    width: 60%;
+    height: 5vh;
+    background-image: linear-gradient( rgb(82, 82, 213), rgb(138, 138, 232));
+    
+    color: rgb(9, 5, 5) ;
+    margin-left: 2.5rem;
+    margin-top: 8px;
+}
+
+input{
+    width: 60%;
+    height: 5vh;
+    margin-top: 8px;
+}
+.form-control{
+    background-color: crimson;
+    border: none;
+}
+.navbar{
+    background-color: crimson;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+    display: inline;
+    margin-right: 10px ;
+}
